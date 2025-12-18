@@ -79,9 +79,9 @@ Groupe_3_TPE_CLoud_2026_exo19.py
 
 MEMBRES DU GROUPE3
 GUEBERGUE Donald (23A202FS)          :fonction compression de texte et chef du projet
-ISSA Mahamat adam (23A158FS)         :fonction convertisseur de date et membre 
-BRAHIM Hissein kitti(23B134FS)       :fonction convertisseur de date et membre 
-MOBEL Parfait (23A467FS)             :fonction compression de texte et chef du projet
+ISSA Mahamat adam (23A158FS)         :fonction convertisseur de date 
+BRAHIM Hissein kitti(23B134FS)       :fonction convertisseur de date 
+MOBEL Parfait (23A467FS)             :fonction compression de texte 
 DJEGOLNOUDJI Elysée (23B363FS)       :fonction detecttion de palindrome dans des sous-chaines 
 GUIDEGUE Elysée (22B725FS)           :fonction detecttion de palindrome dans des sous-chaines 
-ISSA Mahamat moukour (22A662FS)      :fonction compression de texte et chef du projet
+ISSA Mahamat moukour (22A662FS)      :fonction compression de texte
